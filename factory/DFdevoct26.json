@@ -1,0 +1,15 @@
+{
+	"name": "DFdevoct26",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3777770a-784f-45b8-9fcd-fa06eb0df106",
+		"tenantId": "a5d533e3-5295-42f9-ad6a-69671d385c55"
+	}
+}
